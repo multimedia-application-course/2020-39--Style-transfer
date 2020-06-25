@@ -18,6 +18,6 @@
 ![image](https://github.com/multimedia-application-course/2020-39--Style-transfer/blob/master/picture/TrainTest1.jpg)
 ![image](https://github.com/multimedia-application-course/2020-39--Style-transfer/blob/master/picture/TrainTest2.jpg)
 
-## 迁移结果：<br>
-<br>
+## 迁移结果：
+
   ![image](https://github.com/multimedia-application-course/2020-39--Style-transfer/blob/master/picture/Starry_night1.png)

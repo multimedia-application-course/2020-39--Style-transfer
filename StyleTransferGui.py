@@ -25,7 +25,6 @@ pthformat = "pth (*.pth)|*.pth|"\
 class MainWindow(wx.Frame):
     def __init__(self, parent, title):
         wx.Frame.__init__(self, parent, title=title, size=(600, -1))
-
         self.lang_config = wx.Config()
         self.__lang_init()
 

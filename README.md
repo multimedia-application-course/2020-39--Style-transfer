@@ -14,10 +14,10 @@
   StyleTransferGui.py   快速风格迁移图形化界面<br>
   <br>
 训练过程：
-<br>
+
 ![image](https://github.com/multimedia-application-course/2020-39--Style-transfer/blob/master/picture/TrainTest1.jpg)
 ![image](https://github.com/multimedia-application-course/2020-39--Style-transfer/blob/master/picture/TrainTest2.jpg)
-<br>
+
 迁移结果：<br>
 <br>
   ![image](https://github.com/multimedia-application-course/2020-39--Style-transfer/blob/master/picture/Starry_night1.png)

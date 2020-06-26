@@ -130,7 +130,6 @@ style_grams = [x.detach() for x in style_grams]
 
 """## 开始训练
 
-https://github.com/jcjohnson/fast-neural-style/blob/master/doc/training.md
 """
 
 # Commented out IPython magic to ensure Python compatibility.
